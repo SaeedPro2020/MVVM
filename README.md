@@ -9,4 +9,4 @@ Here, there is number of libraries that we have in this App.
 a shared "viewModel" to persist data, 
 "databinding" for passing data to xml file.
  
-In View(UI), we only present the data which we will get from ViewModel, while Model provide that data and then pass it to the SharedViewModel.
+In View(UI), we only present the data that we will get from ViewModel, while Model provide that data and then pass it to the SharedViewModel.
