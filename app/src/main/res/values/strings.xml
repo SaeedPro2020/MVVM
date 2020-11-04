@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flower Gift</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_of_flower">an image of a flower</string>
+    <string name="popularity_rating">Popularity</string>
+    <string name="purchase">Purchase</string>
+    <string name="todo">TODO</string>
+</resources>
