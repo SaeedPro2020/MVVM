@@ -1,5 +1,5 @@
 # MVVM
-This a demo app which describes MVVM pattern.
+This is a demo app which describes MVVM pattern.
 In this app, we implemented MVVM (Model-View-ViewModel) pattern to send and retrieve data from WEB service.
 Here, there is number of libraries that we have in this App.
 "retrofit" and "moshi" to get data from database and parse it. (Also, we can use "gson" and dependency is added)
